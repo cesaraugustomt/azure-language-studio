@@ -50,3 +50,24 @@ The website says it's close to the British Museum, but it's too far to walk.
 
 ![](./inputs/analyse.png)
 ![](./inputs/sentence.png)
+
+# IA generativa responsável
+
+identificar: Possíveis danos relevantes para a solução planejada.
+Medida: A presença desses danos mas saídas geradas pela solução.
+Mitigar: Os danos em várias camadas em sua solução para minimizar a presença e impacto deles.
+Operar: A solução com responsabilidade definido e seguindo um plano de implantação e de preparação operacional.
+
+# Outros Links
+
+## content filters
+
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html
+
+## Azure OpenAI
+
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13-azure-openai.html
+
+## AI copilot
+
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html
